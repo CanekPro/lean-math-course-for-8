@@ -1,8 +1,6 @@
 import Game.Levels.DemoWorld.L01_HelloWorld
 
 World "DemoWorld"
-Title "Demo World"
+Title "Вводный мир: Делимость"
 
-Introduction "
-This introduction is shown before one enters level 1 of the demo world. Use markdown.
-"
+Introduction "Добро пожаловать в первый математический мир твоего курса! Здесь мы разберем базовые свойства чисел и тактики Lean 4."
